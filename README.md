@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://github.com/nicoambrosis/Git-and-Github-First-Steps/blob/main/Curso%20Git%20y%20GitHub.png">
 </p>
-# Git-and-Github-First-Steps
-
-Learning Git and Github. Awesome!!!
 
 
 <h1 align='center'>
