@@ -1,5 +1,5 @@
 # Git-and-Github-First-Steps
-Learning Git and Github
+Learning Git and Github. Awesome!!!
 
 
 <h1 align='center'>
