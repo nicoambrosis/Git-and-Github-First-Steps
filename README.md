@@ -13,3 +13,6 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="90" height="90"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="70" height="70"/> </a>
   <a href="https://seaborn.pydata.org/#" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="50"/> </a>
+
+
+**Nota:** En este repositorio probablemente no encuentres nada de valor. Este repositorio lo utilicé (y lo sigo utilizando) como parte del proceso de aprendizaje de Git, GitHub y el trabajo con control de versiones.  
