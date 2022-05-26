@@ -14,6 +14,5 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="70" height="70"/> </a>
   <a href="https://seaborn.pydata.org/#" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="50"/> </a>
 
-Agrego esta linea desde GitHub.
 
 **Nota:** En este repositorio probablemente no encuentres nada de valor. Este repositorio lo utilicé (y lo sigo utilizando) como parte del proceso de aprendizaje de Git, GitHub y el trabajo con control de versiones.  
