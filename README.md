@@ -19,3 +19,11 @@
 
 
 **Nota:** En este repositorio probablemente no encuentres nada de valor. Este repositorio lo utilicé (y lo sigo utilizando) como parte del proceso de aprendizaje de Git, GitHub y el trabajo con control de versiones.  
+
+## Certificate
+
+<p align="center">
+  <img src="https://github.com/nicoambrosis/Git-and-Github-First-Steps/blob/main/Certificado.jpg">
+</p>
+
+
